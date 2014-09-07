@@ -1,24 +1,24 @@
 body {
+	background-color: black;
 	font-family: 'Impact';
 	background-size: 1370px 800px;
 	background-repeat: no-repeat;
-	color: Blue;
+	color: blue;
 
 }
 .About-me {
 	text-align: center;
 }
-.Settings {
-	text-align:	left;
+
+
+img {
+	width: 500px;
+	height: 350px;
 }
-.Location {
-	text-align: right;
-}
-.Messaging {
-	text-align: left;
-}
-.Kenneth-Prado {
-	text-align: right;
+
+h1 {
+	border: 2px dashed blue;
+	padding: 20px;
 }
 
 a{font-family: 'Arial Black'; padding: 3px}
