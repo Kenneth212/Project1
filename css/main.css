@@ -124,7 +124,7 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("http://www.publicdomaintreasurehunter.com/bookclub/wp-content/uploads/2011/10/clown.jpg");
+  background-image: url("http://www.abc.net.au/reslib/201107/r796866_6978900.JPG");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
