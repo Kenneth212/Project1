@@ -6,7 +6,7 @@ body {
 	color: lime;
 }
 .About-me {
-	text-align: center;
+	text-align: right;
 }
 
 img {
@@ -52,3 +52,9 @@ p {
   line-height: 150%;
   color: lime;
 }
+
+	@media screen and (max-width: 320px) {
+		.About-me {
+	text-align: center;
+}
+	}
