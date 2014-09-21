@@ -1,13 +1,13 @@
 body {
-	background-color: white;
+	background-color: lime;
 	font-family: 'Impact';
 	background-size: 1370px 800px;
 	background-repeat: no-repeat;
-	color: lime;
+	color: navy;
 }
 nav ul {
 	background: ;
-	color: white;
+	color: navy;
 	display: inline-block;
 	list-style-type: none;
 }

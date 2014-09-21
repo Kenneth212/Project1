@@ -5,6 +5,12 @@ body{
 	color: blue;
 
 }
+nav ul {
+	background: navy;
+	color: navy;
+	display: inline-block;
+	list-style-type: none;
+}
 .About-me {
 	text-align: center;
 }
