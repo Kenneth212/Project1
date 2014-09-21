@@ -1,12 +1,18 @@
 body {
-	background-color: black;
+	background-color: white;
 	font-family: 'Impact';
 	background-size: 1370px 800px;
 	background-repeat: no-repeat;
 	color: lime;
 }
+nav ul {
+	background: ;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+}
 .About-me {
-	text-align: right;
+	text-align: center;
 }
 
 img {
