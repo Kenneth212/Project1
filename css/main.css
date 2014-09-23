@@ -62,8 +62,9 @@ p {
   color: lime;
 }
 
-	@media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
 		.About-me {
-	text-align: center;
-}
+			width: 100%;
+			text-align: center;
+		}
 	}
